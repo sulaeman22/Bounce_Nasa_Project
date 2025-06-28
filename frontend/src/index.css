@@ -1,0 +1,19 @@
+/*E:\Earth\frontend\src\index.css*/
+button {
+  z-index: 9999;
+  position: relative;
+  color: white;
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid white;
+  border-radius: 6px;
+  padding: 8px 12px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
