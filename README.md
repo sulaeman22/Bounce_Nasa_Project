@@ -6,8 +6,7 @@ An interactive 3D globe that visualizes asteroids approaching Earth using real-t
 
 ## 🚀 Live Demo
 
-[Click here to view the deployed app]([https://your-deployment-link.com](https://bounce-nasa-project-nine.vercel.app/))  
-_(replace with actual link once deployed)_
+[Click here to view the deployed app]([https://your-deployment-link.com](https://bounce-nasa-project-nine.vercel.app/))
 
 ---
 
