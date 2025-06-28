@@ -10,8 +10,10 @@ An interactive 3D globe that visualizes asteroids approaching Earth using real-t
 
 ## 📸 Preview
 
-![Asteroids Near Earth Screenshot](./preview.png)  
-_(Make sure a screenshot file named `preview.png` exists in the root of your repo)_
+![image](https://github.com/user-attachments/assets/7553aef5-367d-492e-8668-36bb6139b29e)
+
+![image](https://github.com/user-attachments/assets/41ce45ce-e1c3-4102-b7c2-5724260d84ba)
+
 
 ---
 
