@@ -40,11 +40,3 @@ An interactive 3D globe that visualizes asteroids approaching Earth using real-t
 - 📱 Fully responsive layout
 
 ---
-
-## 🔧 Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/sulaeman22/Bounce_Nasa_Project.git
-cd Bounce_Nasa_Project
